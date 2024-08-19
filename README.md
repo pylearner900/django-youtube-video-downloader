@@ -15,3 +15,6 @@ For more detail click [here](https://pypi.org/project/pytubefix/)
 ## 🛠 Skills
 HTML, CSS, Python, Django, Bootstrap
 
+## Screenshots
+
+<img src="ss.png">
